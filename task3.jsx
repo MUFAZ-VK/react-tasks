@@ -32,4 +32,4 @@ function ClickCounter() {
     </div>
   );
 }
-v
+export default App
