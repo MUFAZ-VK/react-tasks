@@ -1,7 +1,7 @@
 // show and hide user bio
 import React, { useState } from 'react';
 
-export default function App() {
+function App() {
   return (
     <div className="bg-gray-100 min-h-screen flex items-center justify-center font-sans p-4">
       <UserBio />
