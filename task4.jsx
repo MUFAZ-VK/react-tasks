@@ -1,7 +1,7 @@
 //welcome mesage using props of react
 import React, { useState } from 'react';
 
-export default function App() {
+function App() {
   return (
     <div className="bg-gray-100 min-h-screen flex items-center justify-center font-sans">
       <WelcomeCard name="john wick" />
